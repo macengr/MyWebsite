@@ -1,0 +1,63 @@
+body, html {
+  padding: 0;
+  width: 100%;
+  max-width:960px;
+  height: 100%;
+  margin-right: auto;
+}
+
+
+img, embed, object, video {
+     max-width: 100%;
+}
+    
+.row {
+	width: 100%;
+	margin-bottom: 20px;
+	display: flex;
+}
+
+#soon {
+    margin-left: auto;
+    margin-right:auto;
+    color:red;
+}
+
+
+.nav {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 40px;
+}
+
+.nav a {
+  color: blue;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 20px 20px;
+  text-transform: uppercase;
+}
+
+#logo {
+    margin-left: 25%; 
+}
+
+.nav ul li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+#sidebar {
+    
+    width: 100%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    
+}
+
+.img-responsive {
+    margin: 20px auto 0 auto;
+}
